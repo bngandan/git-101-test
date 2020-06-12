@@ -1,2 +1,1 @@
-finish
-this is new-feature
+hey,I am in GitHub.
